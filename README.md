@@ -36,10 +36,10 @@ Dataset ini berisi informasi kolom sebagai berikut:
 18. Customer Since = bulan dan tahun customer bergabung
 19. M-Y = tahun dan bulan transaksi
 20. FY = tahun fiskal perusahaan
-21. Customer ID = kode customer
-** Outline dari Notebook:
-A. Data Cleaning
-B. Statistics
-C. Data Analysis and Data Visualization
-D. Summary
-E. Recommendation
+21. Customer ID = kode customer  
+** Outline**  
+A. Data Cleaning  
+B. Statistics  
+C. Data Analysis and Data Visualization  
+D. Summary  
+E. Recommendation  
