@@ -39,7 +39,7 @@ Dataset ini berisi informasi kolom sebagai berikut:
 21. Customer ID = kode customer
 ** Outline dari Notebook:
 A. Data Cleaning
-B. Statistika
-C. Data Analysis dan Data Visualization
-D. Kesimpulan
-E. Rekomendasi
+B. Statistics
+C. Data Analysis and Data Visualization
+D. Summary
+E. Recommendation
